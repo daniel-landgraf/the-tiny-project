@@ -1,7 +1,6 @@
 {
   "name": "the-tiny-project",
   "version": "0.0.1",
-  "description": "The tiniest web components framework in the world",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
